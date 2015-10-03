@@ -1,0 +1,4 @@
+com.SkipIT.skipMe:10
+try.to:1
+run.test:1
+with.fewer.successful.runs:1
