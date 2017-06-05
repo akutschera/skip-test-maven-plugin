@@ -1,3 +1,5 @@
+[Travis CI:  ![build status badge](https://travis-ci.org/akutschera/skip-test-maven-plugin.svg?branch=master)](https://travis-ci.org/akutschera/skip-test-maven-plugin)
+
 The skiptest-maven-plugin allows you to run only a portion of your tests, thus reducing the time until your
 build is finished.
 
